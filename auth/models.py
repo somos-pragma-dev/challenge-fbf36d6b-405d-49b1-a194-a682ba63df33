@@ -1,0 +1,2 @@
+class CustomUser(AbstractUser):
+    pass
